@@ -2,7 +2,6 @@
   "name": "dsh-model-status",
   "description": "模型连通状态指示灯：在聊天框模型选择器旁实时显示当前所选模型是否连通（已连通/异常/不可用/检测中），基于产品自身的模型目录与路由状态，纯客户端实现。",
   "version": "0.6.0",
-  "private": true,
   "type": "module",
   "main": "./lib/index.js",
   "exports": {
